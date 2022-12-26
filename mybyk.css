@@ -1,0 +1,182 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    overflow-x: hidden;
+    padding: 0;
+
+}
+.logo{
+    width:150px;
+}
+
+.headinner{
+  padding: 0 !important;
+}
+.navbar{
+    background:  #0000009e ;
+    padding: 1rem 8rem;
+    
+    position: absolute !important;
+    z-index: 9;
+
+
+    
+}
+body > header > div > div > nav > form > a{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+body > header > div > nav > form > a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+   .bg {
+    /* The image used */
+    /*background-image: url("https://mybyk.in/wp-content/uploads/2021/06/mybyk-banner-1-min-2021.jpg");*/
+  
+    /* Full height */
+    height:650px;
+    
+    opacity: 1;
+   
+    background-image: url( https://mybyk.in/wp-content/uploads/2021/06/mybyk-banner-1-min-2021.jpg);
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+ /* @media screen and(max-width:400px){
+   div{
+    height:auto;
+    
+   }
+  }*/
+
+  #btn1 {
+    border-radius: 30px;
+    border: solid 0px none;
+    margin-left: 48px;
+
+  }
+  #phn{
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+  }
+  #cycle{
+    margin-top: 15px;
+    margin-left: 30px;
+    display: inline-block; 
+   
+
+  }
+  .section2{
+    background-color: rgb(121, 231, 12);
+    max-width: 100%;
+    height: 500px;
+  }
+  #first-text{
+    margin-top: 20px;
+    margin-left: 40%;
+    
+  }
+  h4{
+    font-weight: bold;
+  }
+  p{
+    color: rgb(7, 1, 1);
+  }
+  .secondimage{
+    margin-top:0px;
+    margin-left: 34%;
+  }
+  #last-text{
+    margin-top: 10px;
+    margin-left: 40%;
+  }
+  #sectionpara1{
+    color: black;
+
+  }
+    #sectionpara2{
+      color: black;
+      font-weight: bold;
+    }
+    .cycle-image{
+      margin-left: 250px;
+    }
+    .text-3{
+      margin-left: 100px;
+    }
+    .icon{
+      margin-top:50px ;
+    }
+    .bg1{
+      background-image: url(https://mybyk.in/wp-content/uploads/2021/06/our-mybyk-min.jpg);
+      
+      height: 700px;
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    
+    .bg2{
+      background-image: url(https://mybyk.in/wp-content/uploads/2020/05/gallery_bg.jpg);
+      
+      height: 700px;
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    .center{
+      width:500px;
+      height: 200px;
+      background-color: transparent;
+      background-color: rgba(73, 119, 61, 0.8) !important;
+      color: #ffffff !important;
+    font-weight: bold !important;
+    padding: 51px 40px;
+    text-align: center;
+    justify-content: center;
+    }
+    #box{
+      padding-top: 300px;
+      padding-left: 100px;
+    }
+    .foot{
+    height:500px;
+    }
+    #footerh1{
+      text-align: center;
+      font-weight: bold;
+      padding-top: 100px;
+    }
+    .footimage{
+      margin-left: 100px ;
+    }
+
+    .button-footer{
+      margin-top:15px;
+      border-radius:30px;
+       
+      
+    }
+    .btn{
+      border-radius: 30px;
+    }
+
+   
+    
+   
+
+  
+
+
